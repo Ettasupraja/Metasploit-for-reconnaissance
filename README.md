@@ -50,4 +50,4 @@ use the auxiliary/scanner/mysql/mysql_version module by typing the module name o
 ![5](https://github.com/user-attachments/assets/dcff7eb0-7d5f-47de-93bf-8cc823f4658a)
 
 ## RESULT:
-The Metasploit framework for reconnaissance is  examined successfully
+The Metasploit framework for reconnaissance is  examined successfully.
