@@ -115,5 +115,6 @@ set BLANK_PASSWORDS true
 
 
 
+
 ## RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
