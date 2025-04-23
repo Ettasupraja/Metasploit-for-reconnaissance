@@ -112,9 +112,5 @@ set BLANK_PASSWORDS true
 <img src="https://github.com/user-attachments/assets/4aafb69b-1087-42a1-b3f2-2528c2d79d83" width=600>
 
 
-
-
-
-
 ## RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
